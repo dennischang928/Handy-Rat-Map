@@ -1,0 +1,11 @@
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
+
+.fileSelector {
+    width: 0.0px;
+    height: 0.0px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+  }
